@@ -1,0 +1,14 @@
+para: Pessoa Tal.
+Assunto: Resolução de problema.
+
+	Ola pessoa tal venho por meio desse email tentar resolver seu problema com o
+gerenciamento de dados, em primeiro lugar devemos indentificar o problema que você me 
+aprensentou, aonde você deseja que um codigo faça a leitura dos dados requisitados mesmo
+que, esses dados ainda não estajam preenchidos e támbem a inicialização e a finalização
+do codigo. 
+	Com base nessas infomações podemos fazer a seguinte adaptabilidade, podemos usar
+o laço-while para rodar o sistema enquanto ele ainda não possui os dados, após o sistema 
+iniciar e os dados serem preenchidos o laço-while para o codigo e finaliza ele assim guardando
+as informações. 
+
+exemplo do codigo a baixo:
