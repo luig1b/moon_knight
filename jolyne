@@ -1,0 +1,24 @@
+estoque = [1, 2, 3, 4, 5]
+estoque1 = int(input("escolha um numero para verificar o estoque"))
+
+if estoque1 == 1:
+    print("revoltech")
+elif estoque1 == 2:
+    print("shfiguards")
+elif estoque1 == 3:
+    print("konami")
+elif estoque1 == 4:
+    print("fantoy")
+elif estoque1 == 5:
+    print("toyshow")    
+    
+else:
+    print("não possuimos esse estoque")
+    
+estoque2 = None
+
+#escolha tambem entre os numeros acima
+while estoque2 is None:
+    entrada = input("qual o estoque que você deseja mexer:")
+    if entrada:
+        dados = entrada
